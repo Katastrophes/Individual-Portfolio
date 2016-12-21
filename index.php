@@ -14,21 +14,7 @@
 
     <!-- Navigation -->
 
-
-
-    <nav class="main-menu">
-
-        <div class="wrap">
-            <img class="logo" src="images/logo.png" alt="logo" height="50">
-
-            <ul class="navy">
-                <li><a href="#first">Home</a></li>
-                <li><a href="portfolio.php">Portfolio</a></li>
-                <li><a href="#third">Contact</a></li>
-            </ul>
-        </div>
-
-    </nav>
+    <?php include('/inc/navbar.inc'); ?>
 
 
     <!-- Top Section -->
@@ -150,7 +136,7 @@
                     </div>
                     
                     <div class="butt">
-                       <a href=""> <button class="button" style="vertical-align:middle"><span>See More</span></button></a> 
+                       <a href="portfolio.php"> <button class="button" style="vertical-align:middle"><span>See More</span></button></a> 
                     </div>
                     
                 </article>

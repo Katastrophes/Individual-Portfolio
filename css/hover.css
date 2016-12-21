@@ -1,0 +1,12 @@
+.hover a.link_blog {
+background: #181818 url no-repeat 50% 50%;
+display: block;
+}
+
+.row a {
+    color: #65beb4; 
+}
+
+a:hover {
+    text-decoration: none;
+}

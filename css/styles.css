@@ -213,3 +213,15 @@ padding-right: 10px;
   opacity: 1;
   right: 0;
 }
+
+
+
+/* Portfolio Specific */
+/*	****************************************
+	Basics
+	**************************************** */
+
+blog_link a {
+    color:#65beb4;
+    text-decoration: none;
+}
