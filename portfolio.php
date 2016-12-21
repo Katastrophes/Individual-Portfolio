@@ -48,7 +48,7 @@
                 
             <div class="col-md-4 portfolio-item">
                 <a href="http://teronrussell.com/index.php/portfolio/the-gate-newspaper-flyers-ads-video/" >
-                    <img class="img-responsive" src="images/Hiring-Flyer-(8.jpg" alt="">
+                    <img class="img-responsive" src="images/Hiring-Flyer.jpg" alt="">
                 </a>
                 <h3>
                     <a href="http://teronrussell.com/index.php/portfolio/the-gate-newspaper-flyers-ads-video/">The Gate Newspaper Flyers, Ads, and Video</a>

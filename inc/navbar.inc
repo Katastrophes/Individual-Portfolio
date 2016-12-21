@@ -5,7 +5,7 @@
             <ul class="navy">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="portfolio.php">Portfolio</a></li>
-                <li><a href="#third">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
 

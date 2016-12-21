@@ -215,6 +215,30 @@ padding-right: 10px;
 }
 
 
+.butt {
+    padding-left: 20px;
+}
+
+
+
+.Cbutton {
+      display: inline-block;
+  border-radius: 4px;
+  background-color: #65beb4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 17px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.Cbutton:hover {
+    color: red;
+}
 
 /* Portfolio Specific */
 /*	****************************************
@@ -225,3 +249,33 @@ blog_link a {
     color:#65beb4;
     text-decoration: none;
 }
+
+
+.content {
+
+    text-align: center;
+}
+
+.items, .message {
+    font-family: 'Antic Slab', serif;
+     padding-top: 20px
+    
+}
+
+.items {
+   
+}
+
+.top {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Antic Slab', serif;
+}
+
+
+.message textarea {
+    height: 150px;
+    width: 300px;
+}
+
+
