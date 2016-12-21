@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,700|Old+Standard+TT');
+p {
+    margin-top: 0;
+}
+
+.right {
+    float: right;
+    margin-left: 15px;
+}
+
+.frame {
+    border: 1px solid #666;
+    padding: 5px;
+}
+
+.logo {
+    float: left;
+
+}
+
+ .wrap { 
+    
+    margin: 0 auto;
+	max-width:1080px;
+
+    
+} 
+
+.navy {
+    float: right;
+}
+
+
+.main-menu {
+    background-color: white;
+}
+
+.main-menu a:hover {
+    color:#65beb4;
+}
+
+
+
+
+/*	****************************************
+	Modules (reusable classes)
+	**************************************** */
+.container {
+	margin: 0 auto;
+	width: 100%;
+	max-width:1080px;
+
+}
+
+.container h1, h2{
+padding-left: 10px;
+padding-right: 10px;
+font-family: 'Cabin', sans-serif;
+text-align: center;
+
+
+}
+
+.container p{
+font-family: 'Old Standard TT', serif;
+}
+
+.content {
+	text-align: left
+	overflow: auto;
+
+}
+
+
+
+
+
+
+aside {float:right;}
+
+.post {
+    text-align: left;
+   /* border-bottom: 1px solid black; */
+    display: block;
+    padding-bottom: 10px;
+}
+
+
+.post h2 {
+text-align: center;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+.post p {
+padding-bottom: 10px;
+padding-right: 10px;
+}
+
+.push-right{
+	padding-left: 10px;
+	float: right;
+}
+
+
+.meinfo {
+    text-align: left;
+}
+
+
+.name  {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.hero {
+    background-color: #65beb4;
+    height: 450px ;
+    color: white;
+    font-family: 'Antic Slab', serif;
+    text-align: center;
+    font-size: 340%;
+    padding-top: 45px;
+   
+}
+
+.hero p {
+
+    margin: 0 auto;
+    max-width:960px;
+}
+
+.logoz {
+    padding-top: 30px;
+    
+}
+
+/*   Skill Bars */
+
+.column-left{ float: left;  }
+.column-right{ float: right;   }
+.column-center{ display: inline-block;  } 
+
+#first {
+    text-align: center;
+    margin: 0 auto;
+	max-width:1080px;
+    padding-bottom: 50px;
+    
+}
+
+#first p {
+    margin: 0;
+}
+
+#second h1,h2 {
+    display: inline-block;
+}
+
+#second a {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+#second a:hover {
+     color:#65beb4;
+}
+
+
+
+/*	****************************************
+	Buttons
+	**************************************** */
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #65beb4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 17px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+
+.button:hover span {
+  padding-right: 25px;
+    
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
