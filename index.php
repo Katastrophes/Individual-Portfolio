@@ -232,7 +232,7 @@
 
 
 
-            <h1>Latest Work (Major Accomplishments)</h1>
+            <h1>Latest Work</h1>
 
 
 
@@ -302,12 +302,74 @@
 
 
     </section>
+    
+    
+        <section id="third">
+
+        <div class="container">
+
+         <h1>Coursework</h1>
+            <p>Digital Media Studies<br>Class of 2018</p>
+
+            <div class="content">
+
+                <div class="courses">
+                    
+                    
+                    <div class ="subject1">
+                        <h3>Digital Media Studies</h3>
+                        <ul>
+                            <li>Intro to Digital Media Studies</li>
+                            <li>Digital Media Toolkit</li>
+                            <li>Design in the Digital Age</li>
+                            <li>Introduction to Art and Visual Culture</li>
+                            <li>Poetics of Television</li>
+                        </ul>
+                        <p class="sub">*IP = In Progress (Completion in the Spring)</p>
+                    </div>
+                    
+                    
+                    <div class ="subject2">
+                        <h3>Computer Science</h3>
+                        <ul>
+                            <li>The Art of Programming</li>
+                            <li>The Science of Programming</li>
+                            <li>The Science of Data Structures</li>
+                            <li>Web Design and Development</li>
+                            <li>Advanced Web Design and Development</li>
+                            <li>Mobile App Development (IP)</li>
+                        </ul>
+                        
+                        
+                    </div>
+                    
+                    
+                    <div class ="subject3">
+                        <h3>Art</h3>
+                        <ul>
+                            <li>Introduction to Video Art</li>
+                            <li>Introduction to Digital Art (IP)</li>
+                            <li>Advanced Digital Art</li>
+
+                        </ul>
+                    </div>
+                    
+                </div>
+                
+            </div>
+
+            <!-- .content -->
+        </div>
+
+        <!-- .container -->
+    </section>
+
 
 
 
     <!-- Third Section -->
 
-    <section id="third">
+    <section id="fourth">
 
         <div class="container">
 
@@ -350,6 +412,12 @@
 
 
     </section>
+    
+    
+    
+    
+    
+    
 
 
 

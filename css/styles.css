@@ -269,6 +269,10 @@ padding-right: 10px;
 }
 
 
+.sub { font-size: 9px;
+        
+}
+
 
 
 /*	****************************************
@@ -340,9 +344,42 @@ padding-right: 10px;
 }
 
 
+.courses { 
+    display: flex;
+    margin: 0 auto;
+	max-width:900px;
+}
+.subject1 {float: left;}
+.subject2 {float: right}
+.subject3 {display: inline-block;}
 
 
 
+.subject1 li {
+    list-style: none;
+    border: 1px solid grey;
+   
+    padding:10px;
+}
+
+.subject2 li {
+    list-style: none;
+    border: 1px solid grey;
+    
+    padding:10px;
+}
+
+
+.subject3 li {
+    list-style: none;
+    border: 1px solid grey;
+    ;
+    padding:10px;
+}
+
+.courses h3{
+    font-family: 'Cabin', sans-serif;
+}
 
 
 /*	****************************************

@@ -340,7 +340,7 @@
 
                 <div class="col-lg-12">
 
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; teronrussell.com 2016 (Teron Russell)</p>
 
                 </div>
 
